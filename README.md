@@ -6,6 +6,6 @@ Some random text
 
 Some more text
 
-##Local development
+## Local development
 
 1. Open index.html in your browser
